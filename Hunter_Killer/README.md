@@ -13,7 +13,7 @@ The current Windows Store edition supports Windows 10 and Windows 8.1,
 but it has been succesfully tested as a WebGL version as well.
 
 ## Screenshots
-![screenshot, lookin at the sun](https://github.com/studiefredfredrik/ProfessionalHuntingSimulator/blob/master/screenshots/screen1.jpg?raw=true)
+![screenshot, lookin at the sun](https://github.com/Paryul10/Hunter-Killer-Game/blob/master/Hunter_Killer/screenshots/sub_explosion.jpg?raw=true)
 ![screenshot, start menu](https://github.com/studiefredfredrik/ProfessionalHuntingSimulator/blob/master/screenshots/screen2.jpg?raw=true)
 ![screenshot, giving the bear the finger](https://github.com/studiefredfredrik/ProfessionalHuntingSimulator/blob/master/screenshots/screen3.jpg?raw=true)
 ![screenshot](https://github.com/studiefredfredrik/ProfessionalHuntingSimulator/blob/master/screenshots/screen4.jpg?raw=true)
